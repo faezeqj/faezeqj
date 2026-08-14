@@ -1,16 +1,19 @@
-## Hi there 👋
+### *Hi, I'm Faeze. Welcome to my Github page* 
 
-<!--
-**faezeqj/faezeqj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.developer {
+  full-name: "Faeze Qeiji";
+  role: "Aspiring Front-end Developer";
+  skills: "HTML", "CSS", "Flexbox", "Git", "GitHub";
+  currently: "Learning JavaScript";
+  spoken-languages: "Persian (Native)", "English (B1-B2)", "French (A1)";
+}
+
+```
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
